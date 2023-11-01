@@ -1,6 +1,6 @@
 hello everyone!
 
-I'm ochysponomi, a French tool developer
+I'm ochysponomi, a French tool developer and i am koh a French developer
 
 today I present to you, X-LOGGER!! 🔧🔒
 what is X-logger? x-logger is a powerful tool to recover information about your victim and create ransomware
@@ -8,6 +8,7 @@ what is X-logger? x-logger is a powerful tool to recover information about your 
               our T.O.S
 1 - we are not responsible for your actions
 2 - we are not responsible for legal issues
+                                                                                                                                                                                 
 it's all 🔧🔧
 
 what is X-logger by Koh x ochysponomi?
