@@ -7,6 +7,7 @@ what is X-logger? x-logger is a powerful tool to recover information about your 
 
               our T.O.S
 1 - we are not responsible for your actions
+
 2 - we are not responsible for legal issues
                                                                                                                                                                                  
 it's all 🔧🔧
@@ -36,9 +37,9 @@ and anothers coll informations
 
 just start the file
 setup.bat
-enter your key
 and it's good !!
 you can create ransomware btw 🔒
+EXTRACT FILE !!!
 
 x-logger, the ultimate logger.
 undetected by antivirus
