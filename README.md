@@ -46,3 +46,7 @@ updated regularly
 persistent (starts at each startup)
 grab all infos
           🔒
+
+
+
+        # YOU MUST EXTRACTED THE FILE FOR USE THE TOOL!
