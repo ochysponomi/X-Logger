@@ -48,7 +48,12 @@ updated regularly
 persistent (starts at each startup)
 grab all infos
           🔒
-
+                                    
 
 
         # YOU MUST EXTRACTED THE FILE FOR USE THE TOOL!
+
+
+
+        # Picture of tool in X-Log.jpg !!
+        
