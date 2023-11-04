@@ -14,7 +14,7 @@ echo                   ╚══════════════════
 echo                         ╔═══════════════════════╗
 echo                         ║   press 1 to login    ║
 echo                         ╚═══════════════════════╝
-set /p input3=                 [root@hell]:
+set /p input3=                 [root@X-LoggerMain]:
 if %input3% == 1 goto login 
 if %input3% == 2 goto buy
 if %input3% == 3 goto admin
