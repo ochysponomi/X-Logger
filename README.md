@@ -4,6 +4,7 @@ I'm ochysponomi, a French tool developer and i am koh a French developer
 
 today I present to you, X-LOGGER!! 🔧🔒
 what is X-logger? x-logger is a powerful tool to recover information about your victim and create ransomware
+for use this tool you do start "Luncher.bat" and start "Builder.bat"
 
               our T.O.S
 1 - we are not responsible for your actions
